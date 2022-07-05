@@ -15,5 +15,5 @@ Abaixo, segue todas as atividades do Bootcamp:
  
  4️⃣Introdução ao Git e ao Github;
  
- 5️⃣Criando seu primeiro repositório no Github para compartilhar seu progresso; 📎 [Certificado]
+ 5️⃣Criando seu primeiro repositório no Github para compartilhar seu progresso; 
  
