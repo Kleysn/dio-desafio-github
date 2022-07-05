@@ -12,6 +12,8 @@ Abaixo, segue todas as atividades do Bootcamp:
  2️⃣Boas-vindas ao Bootcamp Santander Bootcamp Fullstack Developer;
  
  3️⃣Introdução à progamação e pensamento computacional;
+ 
  4️⃣Introdução ao Git e ao Github;
+ 
  5️⃣Criando seu primeiro repositório no Github para compartilhar seu progresso; 📎 [Certificado]
  
